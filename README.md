@@ -1,5 +1,5 @@
 # Scm-Project-KLNN
-<h1 align="center">Hi 👋, We are Group ABC.</h1>
+<h1 align="center">Hi 👋, We are Group KLNN.</h1>
 <h3 align="center">Welcome to the GitHub repository for the coding collaboration of four skilled individuals from CU, INDIA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abc123&label=Profile%20views&color=0e75b6&style=flat" alt="abc123" /> </p>
