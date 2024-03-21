@@ -13,19 +13,19 @@
 - 💬 How to reach me **email@gmail.com**
 
 - 🍀 Meet The Team
-- 1. John Doe
+- 1. Lavanya Sinha
 - Role: Project Lead
-- GitHub: [johndoe]
+- GitHub: [john]
 - (https://github.com/johndoe)
-- 2. Jane Smith
+- 2. Kanu Priya
 - Role: Frontend Developer
 - GitHub: [johndoe]
 - (https://github.com/johndoe)
-  5. Alex Johnson
+  3. Nandini
 - Role: Backend Developer
 - GitHub: [alexjohnson]
 - (https://github.com/alexjohnson)
-  6. Emily Brown
+  4. Nitasha
 - Role: Full Stack Developer
 - GitHub: [emilybrown]
 - (https://github.com/emilybrown)
